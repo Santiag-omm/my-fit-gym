@@ -1,0 +1,6 @@
+[auth]
+enable_signup = false
+minimum_password_length = 12
+
+[functions.invite-client]
+verify_jwt = true
